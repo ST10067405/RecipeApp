@@ -1,0 +1,22 @@
+﻿<Window x:Class="RecipeApp3.FoodGroupInputDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Food Group Input Dialog" Height="143" Width="293"
+        WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Select a Food Group:" Margin="0,0,0,10" FontWeight="Bold" FontSize="16"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="BtnStarch" Content="Starch" Margin="5" Click="FoodGroupButton_Click"/>
+            <Button x:Name="BtnFruitsVegetables" Content="Fruits and Vegetables" Margin="5" Click="FoodGroupButton_Click"/>
+            <Button x:Name="BtnLegumes" Content="Legumes" Margin="5"  Click="FoodGroupButton_Click"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="BtnProteins" Content="Proteins" Margin="5"  Click="FoodGroupButton_Click"/>
+            <Button x:Name="BtnDairy" Content="Dairy" Margin="5"  Click="FoodGroupButton_Click"/>
+            <Button x:Name="BtnFatsOil" Content="Fats &amp; Oil" Margin="5"  Click="FoodGroupButton_Click"/>
+            <Button x:Name="BtnWater" Content="Water" Margin="5"  Click="FoodGroupButton_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
