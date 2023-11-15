@@ -1,0 +1,8 @@
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\bin\Debug\RecipeApp.exe.config
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\bin\Debug\RecipeApp.exe
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\bin\Debug\RecipeApp.pdb
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\obj\Debug\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\obj\Debug\RecipeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\obj\Debug\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\obj\Debug\RecipeApp.exe
+C:\Users\jaime\OneDrive - ADvTECH Ltd\Courses\Programming\Semester 1\POE\RecipeApp\prog6221---programming-2a---part-1-ST10067405\obj\Debug\RecipeApp.pdb
